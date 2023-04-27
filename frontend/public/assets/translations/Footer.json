@@ -1,0 +1,12 @@
+{
+  "footer":[
+    {
+      "locale": "en",
+      "content": "Carry Cloud &copy; 2023 en"
+    },
+    {
+      "locale": "pl",
+      "content": "Carry Cloud &copy; 2023 pl"
+    }
+  ]
+}

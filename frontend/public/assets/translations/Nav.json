@@ -1,0 +1,78 @@
+{
+  "nav":[
+    {
+      "locale": "en",
+      "content": [
+        {
+          "title": "Home",
+          "url": "/"
+        },
+        {
+          "title": "About",
+          "url": "/about"
+        },
+        {
+          "title": "Contact",
+          "url": "/contact"
+        },
+        {
+          "title": "Login",
+          "url": "/user/login"
+        },
+        {
+          "title": "Register",
+          "url": "/user/register"
+        },
+        {
+          "title": "Logout",
+            "url": "/user/logout"
+        },
+        {
+          "title": "Profile",
+          "url": "/user/profile"
+        },
+        {
+          "title": "Games",
+            "url": "/games"
+        }
+      ]
+    },
+    {
+      "locale": "pl",
+      "content": [
+        {
+          "title": "Strona główna",
+          "url": "/"
+        },
+        {
+          "title": "O nas",
+          "url": "/about"
+        },
+        {
+          "title": "Kontakt",
+          "url": "/contact"
+        },
+        {
+          "title": "Zaloguj",
+          "url": "/user/login"
+        },
+        {
+          "title": "Zarejestruj",
+          "url": "/user/register"
+        },
+        {
+          "title": "Wyloguj",
+            "url": "/user/logout"
+        },
+        {
+          "title": "Profil",
+          "url": "/user/profile"
+        },
+        {
+          "title": "Gry",
+            "url": "/games"
+        }
+      ]
+    }
+  ]
+}
